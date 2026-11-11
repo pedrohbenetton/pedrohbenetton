@@ -7,7 +7,7 @@
   <a href="mailto:pedrohcomisso@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-Oi! Estudo Ciência da Computação na UFSCar Sorocaba (6º semestre, formatura em 2028). Trabalho principalmente com LLMs: fine-tuning, RAG e, principalmente, avaliação. Gosto de projetos em que dá para medir se a ideia funcionou.
+Oi! Estudo Ciência da Computação na UFSCar Sorocaba (6º semestre, formatura em 2028). Trabalho com LLMs: fine-tuning, RAG e, principalmente, avaliação. Gosto de projetos em que dá para medir se a ideia funcionou.
 
 - 🔬 Iniciação científica em sistemas de recomendação na UFSCar
 - 🧪 Mais de 1 ano avaliando e alinhando LLMs (RLHF, detecção de alucinações)

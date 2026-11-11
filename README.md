@@ -11,7 +11,7 @@ Oi! Estudo Ciência da Computação na UFSCar Sorocaba (6º semestre, formatura 
 
 - 🔬 Iniciação científica em sistemas de recomendação na UFSCar
 - 🧪 Mais de 1 ano avaliando e alinhando LLMs (RLHF, detecção de alucinações)
-- 🚀 Co-fundador técnico de uma startup B2B incubada no UFSCar Labs
+- 🚀 Co-fundador técnico da Lutra, startup de visão computacional para academias de luta
 - 🌎 Português nativo, inglês C1, espanhol B2
 
 ## Projetos
